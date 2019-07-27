@@ -13,7 +13,7 @@ body{
 
 /* Parralax Image Effect */
 .pimg1{
-  background-image:url('C:/Users/Dell/Desktop/Code_/HTML/html_v2/website/img3.jpg');
+  background-image:url('img3.jpg');
   min-height:830px; 
   position:relative;
   background-position:center;
